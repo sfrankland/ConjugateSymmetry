@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 import os
-import classic_AE_inv_test_norm_gen_SR_hybridobj_onelevel_onedim_HIERARCHY_mult_eigcoords_fixed_hybrid_sem2_sepfamilies
+import classic
 import plot_utils_analogy
 import glob
 import pdb
