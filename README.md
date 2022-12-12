@@ -17,8 +17,4 @@ anti-correlated representations. The relational representations
 learned by the model can then be used to complete analogies
 involving the signed distance between novel input pairs (1:3
 :: 5:? (7)), and extrapolate outside of the network’s training
-domain. 
-
-As a proof of principle, we extend the same architecture to more richly structured tree representations. We suggest
-that this combination of predictive, error-driven learning and
-simple inductive biases offers promise for deriving and utilizing the representations necessary for high-level cognitive functions, such as analogy
+domain. As a proof of principle, we extend the same architecture to more richly structured tree representations.
